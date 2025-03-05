@@ -19,7 +19,7 @@
 
 - :school: I am a `CSE` major at [North South University](https://www.northsouth.edu/)
 - :technologist: **Currently learning** Machine Learning and Deep Learning
-- :nerd_face: I have done some projects using C,JAVA,PHP, HTML, CSS, and MySQL
+- :nerd_face: I have done some projects using C, JAVA, PHP, HTML, CSS, and MySQL
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Md.%20Hasan%20Emam&color=EA4335&style=flat-square)](mailto:hasanemamrabbi@gmail.com)
 
 <br>
