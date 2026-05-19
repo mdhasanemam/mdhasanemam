@@ -84,23 +84,18 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdhasanemam&theme=dark&show_icons=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanemam&theme=dark&hide_border=false&langs_count=7" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhasanemam&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdhasanemam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanemam&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=mdhasanemam&theme=radical&row=1&column=7&margin-w=10&no-bg=true" />
+  <img src="https://streak-stats.demolab.com?user=mdhasanemam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mdhasanemam&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </p>
 
 ---
@@ -108,13 +103,17 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdhasanemam/mdhasanemam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mdhasanemam/mdhasanemam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
