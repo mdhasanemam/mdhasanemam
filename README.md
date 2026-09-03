@@ -23,7 +23,7 @@
 - 🧠 Built projects using **CNNs, Python, PHP, C, Java, MySQL, HTML, CSS**
 - 🌱 Currently exploring **Deep Learning & Neural Networks**
 - 💡 Always open to collaborating on interesting projects
-- 📩 Reach me: [hasanemamrabbi@gmail.com](mailto:hasanemamrabbi@gmail.com)
+- 📩 Reach me: [hasanemamrabbi@gmail.com](mailto:hasanemamrabbi@gmail.com) [hasan.emam@northsouth.edu](mailto:hasan.emam@northsouth.edu)
 
 <br clear="right"/>
 
