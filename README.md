@@ -60,11 +60,11 @@
 
 ## 🎬 Match Highlights
 
-| Project | What it does | Status |
-|:--|:--|:--:|
-| 📈 [**Stock Market Analytics Platform**](https://github.com/mdhasanemam/stock-market-analytics-platform) | Full-stack web platform for stock analytics: dashboard, ML predictions, model comparison with walk-forward validation, technical indicators, watchlist | 🚧 Building |
-| 📉 [**Stock Price Prediction**](https://github.com/mdhasanemam/stock-price-prediction) | Stock price prediction with KNN, Random Forest, Bayesian regression, Decision Tree, Gradient Boosting and SVR | ✅ Done |
-| 🩻 **Medical imaging research** | Biomedical image retrieval and retinal disease classification | 📝 Papers in progress |
+| Project | What it does |
+|:--|:--|
+| 📈 [**Stock Market Analytics Platform**](https://github.com/mdhasanemam/stock-market-analytics-platform) | Full-stack web platform for stock analytics: dashboard, ML predictions, model comparison with walk-forward validation, technical indicators, watchlist |
+| 📉 [**Stock Price Prediction**](https://github.com/mdhasanemam/stock-price-prediction) | Stock price prediction with KNN, Random Forest, Bayesian regression, Decision Tree, Gradient Boosting and SVR |
+| 🩻 **Medical imaging research** | Biomedical image retrieval and retinal disease classification |
 
 ## 📊 Season Stats
 
@@ -117,15 +117,20 @@ Building from Dhaka, for the world. 🌍
 ## 📫 Connect
 
 <p>
-  <a href="mailto:hasan.emam@northsouth.edu"><img src="https://img.shields.io/badge/Email-hasan.emam%40northsouth.edu-A50044?style=for-the-badge&labelColor=004D98" alt="Email"/></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-006A4E?style=for-the-badge&labelColor=004D98" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/md-hasan-emam"><img src="https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"><img src="https://img.shields.io/badge/Google_Scholar-A50044?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://github.com/mdhasanemam"><img src="https://img.shields.io/badge/GitHub-004D98?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:hasanemamrabbi@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasanemamrabbi%40gmail.com-A50044?style=for-the-badge&logo=gmail&logoColor=white&labelColor=004D98" alt="Gmail"/></a>
+  <a href="mailto:hasan.emam@northsouth.edu"><img src="https://img.shields.io/badge/NSU_Mail-hasan.emam%40northsouth.edu-004D98?style=for-the-badge&labelColor=A50044" alt="NSU email"/></a>
 </p>
 
-📧 **Email:** [hasan.emam@northsouth.edu](mailto:hasan.emam@northsouth.edu)   [hasanemamrabbi@gmail.com](mailto:hasanemamrabbi@gmail.com) 
-🌐 **Portfolio:** [https://YOUR-PORTFOLIO-URL](https://mdhasanemam.github.io/)
+<p>
+  <a href="https://mdhasanemam.github.io/"><img src="https://img.shields.io/badge/Portfolio-mdhasanemam.github.io-006A4E?style=for-the-badge&labelColor=004D98" alt="Portfolio"/></a>
+  <a href="https://scholar.google.com/citations?user=UYvdcTkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-A50044?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/md-hasan-emam"><img src="https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/mdhasanemam"><img src="https://img.shields.io/badge/GitHub-A50044?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+📧 **Email:** [hasanemamrabbi@gmail.com](mailto:hasanemamrabbi@gmail.com) · [hasan.emam@northsouth.edu](mailto:hasan.emam@northsouth.edu)  
+🌐 **Portfolio:** [mdhasanemam.github.io](https://mdhasanemam.github.io/)  
+🎓 **Google Scholar:** [Md. Hasan Emam](https://scholar.google.com/citations?user=UYvdcTkAAAAJ&hl=en)
 
 <p align="center">
   <b>Visca Barça 🔵🔴 · Messi 🐐 · Made with ❤️ in Bangladesh 🇧🇩</b>
