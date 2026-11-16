@@ -108,6 +108,11 @@
 
 Research is a lot like a Messi run: patient, low to the ground, beating one bug at a time, and then suddenly the goal.
 
+## 🇧🇩 Made in Bangladesh
+
+*আমার সোনার বাংলা, আমি তোমায় ভালোবাসি।*
+
+Building from Dhaka, for the world. 🌍
 
 ## 📫 Connect
 
@@ -119,8 +124,8 @@ Research is a lot like a Messi run: patient, low to the ground, beating one bug 
   <a href="https://github.com/mdhasanemam"><img src="https://img.shields.io/badge/GitHub-004D98?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-📧 **Email:** [hasan.emam@northsouth.edu](mailto:hasan.emam@northsouth.edu)  
-🌐 **Portfolio:** [https://YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL)
+📧 **Email:** [hasan.emam@northsouth.edu](mailto:hasan.emam@northsouth.edu)   [hasanemamrabbi@gmail.com](mailto:hasanemamrabbi@gmail.com) 
+🌐 **Portfolio:** [https://YOUR-PORTFOLIO-URL](https://mdhasanemam.github.io/)
 
 <p align="center">
   <b>Visca Barça 🔵🔴 · Messi 🐐 · Made with ❤️ in Bangladesh 🇧🇩</b>
