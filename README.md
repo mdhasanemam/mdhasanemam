@@ -133,7 +133,7 @@ Building from Dhaka, for the world. 🌍
 🎓 **Google Scholar:** [Md. Hasan Emam](https://scholar.google.com/citations?user=UYvdcTkAAAAJ&hl=en)
 
 <p align="center">
-  <b>Visca Barça 🔵🔴 · Messi 🐐 · Made with ❤️ in Bangladesh 🇧🇩</b>
+  <b>Visca Barça 🔵🔴 · Messi 🐐 · Bangladesh 🇧🇩</b>
 </p>
 
 <p align="center">
