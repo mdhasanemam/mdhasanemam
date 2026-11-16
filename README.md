@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="300" align="center" valign="top">
-      <img src="assets/player-card.svg" alt="Player card" width="280"/>
+      <img src="assets/spider-man-4-logo-svgrepo-com.svg" alt="Player card" width="280"/>
     </td>
     <td valign="top">
 
