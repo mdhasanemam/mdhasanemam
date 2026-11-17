@@ -139,5 +139,5 @@ Building from Dhaka, for the world. 🌍
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,24,2" width="100%"/>
+  <img src="assets/footer-web.svg" alt="Spider-web footer" width="100%"/>
 </p>
