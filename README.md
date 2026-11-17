@@ -44,9 +44,8 @@
 
 | Zone | What I work on |
 |:--|:--|
-| 🩻 **Medical image analysis** | Classification and retrieval of biomedical images with deep learning |
-| 👁️ **Retinal disease** | Triage and classification models for retinal imaging |
-| 🏗️ **Architectures** | Designing and debugging modern vision backbones (CNNs, transformers, hybrids) |
+| 🩻 **Medical imaging AI** | Deep learning for medical images: classification, retrieval and diagnostic support |
+| 🧠 **Deep learning** | Designing, training and debugging modern vision architectures (CNNs, transformers, hybrids) |
 | 📚 **Open to** | Research collaborations, reviews, and good football debates |
 
 ## 🛠️ Starting XI (Tech Stack)
@@ -60,11 +59,14 @@
 
 ## 🎬 Match Highlights
 
+<!--START_SECTION:highlights-->
 | Project | What it does |
 |:--|:--|
-| 📈 [**Stock Market Analytics Platform**](https://github.com/mdhasanemam/stock-market-analytics-platform) | Full-stack web platform for stock analytics: dashboard, ML predictions, model comparison with walk-forward validation, technical indicators, watchlist |
-| 📉 [**Stock Price Prediction**](https://github.com/mdhasanemam/stock-price-prediction) | Stock price prediction with KNN, Random Forest, Bayesian regression, Decision Tree, Gradient Boosting and SVR |
-| 🩻 **Medical imaging research** | Biomedical image retrieval and retinal disease classification |
+| ⚽ [**stock-market-analytics-platform**](https://github.com/mdhasanemam/stock-market-analytics-platform) | Full-stack web platform for stock analytics: dashboard, ML predictions, model comparison, technical indicators, watchlist |
+| 🎯 [**stock-price-prediction**](https://github.com/mdhasanemam/stock-price-prediction) | Stock price prediction with KNN, Random Forest, Bayesian regression, Decision Tree, Gradient Boosting and SVR |
+<!--END_SECTION:highlights-->
+
+<sub>This table refreshes automatically from my latest public repositories.</sub>
 
 ## 📊 Season Stats
 
