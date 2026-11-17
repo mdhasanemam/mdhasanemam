@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=EDBB00&background=00000000&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md. Hasan Emam+%F0%9F%91%8B;CSE+Grad+Student+%40+North+South+University;Deep+Learning+for+Medical+Imaging;Messi+is+the+GOAT.+Visca+Bar%C3%A7a!+%F0%9F%94%B5%F0%9F%94%B4;Proudly+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=EDBB00&background=00000000&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Rabby+%F0%9F%91%8B;CSE+Grad+Student+%40+North+South+University;Deep+Learning+for+Medical+Imaging;Messi+is+the+GOAT.+Visca+Bar%C3%A7a!+%F0%9F%94%B5%F0%9F%94%B4;Proudly+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation"/>
 </p>
 
 <p align="center">
