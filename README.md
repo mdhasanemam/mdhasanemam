@@ -34,7 +34,7 @@
 - ⚽ Culer to the core. Messi is the reason I fell in love with football
 - 🇧🇩 Born and raised in the land of rivers, Bangladesh
 
-<sub>Card stats (DL, CV, MED, PY, RES, TEAM) are just for fun.</sub>
+
 
 </td>
   </tr>
